@@ -1,5 +1,3 @@
-
-
 def criterio_comparacion(value, criterio):
     if isinstance(value, (int, str, bool)):
         return value
@@ -248,4 +246,3 @@ class Persona():
 # print()
 # for persona in lista_valores:
 #     print(persona)
-
